@@ -1,4 +1,4 @@
-# Python & Panda Data Analytics Portfolio
+# Python & Pandas Data Analytics Portfolio
 
 
 ## Scraping Data from a Real Website and Exporting as CSV to Desktop
